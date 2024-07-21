@@ -1,0 +1,13 @@
+release/bullet.o
+release/gamewidget.o
+release/lazer.o
+release/main.o
+release/mainwindow.o
+release/menuwidget.o
+release/player.o
+release/moc_bullet.o
+release/moc_gamewidget.o
+release/moc_lazer.o
+release/moc_mainwindow.o
+release/moc_menuwidget.o
+release/moc_player.o

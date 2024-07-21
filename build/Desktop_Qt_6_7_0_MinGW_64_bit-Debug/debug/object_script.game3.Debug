@@ -1,0 +1,13 @@
+debug/bullet.o
+debug/gamewidget.o
+debug/lazer.o
+debug/main.o
+debug/mainwindow.o
+debug/menuwidget.o
+debug/player.o
+debug/moc_bullet.o
+debug/moc_gamewidget.o
+debug/moc_lazer.o
+debug/moc_mainwindow.o
+debug/moc_menuwidget.o
+debug/moc_player.o
